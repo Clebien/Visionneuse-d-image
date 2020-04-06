@@ -6,5 +6,4 @@
 the folder "build-projectPOO-Desktop_Qt_5_12_1_MinGW_64_bit-Debug" and the folder "projectPOO" in the same
   folder to which you will give a name of your choice.
 
-
-##################################################### ENJOY IT ! ###################################################
+--------------------------------- ENJOY IT ! --------------------------------
